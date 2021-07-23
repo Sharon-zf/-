@@ -1,0 +1,230 @@
+/* 第一部分代码 */
+#head13 {
+	width: 150px;
+	height: 100px;
+	display: inline;
+}
+
+#head1 {
+	width: 1380px;
+	height: 100px;
+	background-color: rgb(243, 245, 247);
+	overflow: hidden;
+}
+
+#head11 {
+	width: 50px;
+	height: 40px;
+	background-color: rgb(243, 245, 247);
+	margin: 25px 10px 30px 40px;
+	overflow: hidden;
+	display: inline-block;
+
+}
+
+#head11:hover {
+	border-bottom: rgb(1, 163, 249) solid;
+}
+
+#head111 {
+	display: inline-block;
+	margin: 8px 8px 8px 9px;
+}
+
+#head12 {
+	width: 90px;
+	height: 40px;
+	background-color: rgb(243, 245, 247);
+	margin: 25px 10px 30px 30px;
+	overflow: hidden;
+	display: inline-block;
+}
+
+#head12:hover {
+	border-bottom: rgb(1, 163, 249) solid;
+}
+
+#head14 {
+	width: 230px;
+	height: 100px;
+	/* background-color: #00FFFF; */
+	background-color: rgb(243, 245, 247);
+	display: inline-block;
+	margin-left: 180px;
+	margin-top: 0px;
+	vertical-align: top;
+}
+
+#a {
+	border: rgb(0, 164, 255) solid 2px;
+	height: 25px;
+	width: 170px;
+}
+
+#b {
+	width: 45px;
+	height: 30px;
+	border: none;
+	background-color: rgb(0, 164, 255);
+	color: #FFFFFF;
+}
+
+#head15 {
+	height: 100px;
+	width: 300px;
+	/* background-color: bisque; */
+	background-color: rgb(243, 245, 247);
+	display: inline-block;
+	vertical-align: top;
+	overflow: hidden;
+}
+
+#heada:hover {
+	color: red;
+}
+
+#heada {
+	margin: 30px 10px;
+	display: inline-block;
+	color: grey;
+	text-decoration: none;
+}
+
+#headb {
+	margin: 35px 10px;
+	display: inline-block;
+}
+
+#headc {
+	margin: 35px 10px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+/* 第二部分代码 */
+#head2 {
+	width: 1380px;
+	height: 450px;
+	background-image: url(4.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#head21 {
+	width: 200px;
+	height: 450px;
+	background-color: rgba(40, 44, 53, 0.4);
+	margin-left: 180px;
+	display: inline-block;
+}
+
+#head211 {
+	display: inline-block;
+	height: 50px;
+	width: 200px;
+	color: white;
+	text-decoration: none;
+	text-indent: 2em;
+}
+
+#head211:hover {
+	color: rgb(0, 180, 255);
+}
+
+#head22 {
+	height: 350px;
+	width: 220px;
+	background-color: rgb(243, 245, 247);
+	display: inline-block;
+	float: right;
+	margin: 50px 180px 50px 0px;
+	padding-top: 0px;
+}
+
+#head221 {
+	height: 70px;
+	width: 220px;
+	background-color: rgb(155, 206, 234);
+	color: #FFFFFF;
+	font-size: 20px;
+	display: inline-block;
+}
+
+#head2211 {
+	text-indent: 3em;
+	display: inline-block;
+	margin-top: 22px;
+}
+
+#head222 {
+	height: 67px;
+	width: 220px;
+	background-color: rgb(243, 245, 247);
+	display: inline-block;
+	border-bottom: solid rgb(210, 210, 210);
+}
+
+#head223 {
+	height: 53px;
+	width: 180px;
+	background-color: rgb(243, 245, 247);
+	border: solid rgb(0, 180, 255) 2px;
+	color: rgb(0, 164, 255);
+	font-size: 18px;
+	margin: 10px 20px;
+}
+#head30{
+	width: 1380px;
+	height: 1000px;
+	background-color: rgb(243, 245, 247);
+	overflow: hidden;
+}
+#head3{
+	height: 60px;
+	width: 1020px;
+	background-color: white;
+	margin-left: 180px;
+	margin-top: 5px;
+	box-shadow: rgb(210, 210, 210) 2px 2px;
+}
+#head31{
+	height: 25px;
+	width: 115px;
+	/* background-color: aliceblue; */
+	display: inline-block;
+	margin: 16px 0px 0px 0px;
+	text-indent: 2em;
+	text-decoration: none;
+	border-right: solid rgb(168,168,168) 2px;
+	color: black;
+}
+#head32{
+	height: 25px;
+	width: 115px;
+	/* background-color: aliceblue; */
+	display: inline-block;
+	text-indent: 2em;
+	text-decoration: none;
+	border-right: solid rgb(168,168,168) 2px;
+	color: black;
+}
+#head33{
+	height: 25px;
+	width: 115px;
+	/* background-color: aliceblue; */
+	display: inline-block;
+	text-indent: 2em;
+	text-decoration: none;
+	float: right;
+	margin-top: 16px;
+	color: black;
+}
+#head31:hover{
+	color: rgb(0, 180, 255);
+}
+#head32:hover{
+	color: rgb(0, 180, 255);
+}
+#head33:hover{
+	color: rgb(0, 180, 255);
+}
