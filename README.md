@@ -1,2 +1,2 @@
 # -
-学习完HTML与css后按照教学视频中给的设计图编写的一个静态页面
+After learning HTML and css, follow the design diagram given in the instructional video to write a static page
